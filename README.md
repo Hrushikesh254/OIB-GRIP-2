@@ -1,6 +1,6 @@
-# OIB-GRIP-2 
-Task 2 = Portfolio...
-Language Used = HTML5, CSS3, JavaScript
-IDE = Visual Studio Code
+# OIB-GRIP-2 <br>
+Task 2 = Portfolio... <br>
+Language Used = HTML5, CSS3, JavaScript <br>
+IDE = Visual Studio Code <br>
 Server = Live Server Extension
 

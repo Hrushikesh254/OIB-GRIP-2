@@ -1,7 +1,7 @@
 # OIB-GRIP-2 <br> 
 HTML, CSS, JavaScript and Bootstrap 5 Portfolio Website <br>
 =======<br>
-![Peek 2022-01-24 11-06](https://user-images.githubusercontent.com/11813341/150726892-d47d1860-b157-4453-aab0-860b1328b25c.gif) <br>
+![Peek 2022-06-25 11-06]("file:///D:/XAMPP/htdocs/Oasis%20-Infobyte.%20Task%202/index.html") <br>
 
 # Tools used #
 * HTML, CSS and JavaScript
